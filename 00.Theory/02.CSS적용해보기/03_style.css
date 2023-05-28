@@ -1,0 +1,25 @@
+body {
+    font-size: 15px;
+    line-height: 1.6em;
+}
+
+h1 {
+    font-weight: normal;
+    color: darkorange;
+    /*text-decoration: line-through;*/
+}
+
+p.text {
+    font-weight: bold;
+    font-style: italic;
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+}
+
+p.copy {
+    text-transform: capitalize;
+    text-align: center;
+}
